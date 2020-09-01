@@ -17,3 +17,5 @@ dependencies:
   - pip
   - pip:
     - -r file:requirements.txt
+  - pip:
+    - -r nbgitpuller.txt
