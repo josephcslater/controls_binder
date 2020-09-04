@@ -19,3 +19,4 @@ dependencies:
     - -r file:requirements.txt
   - pip:
     - -r nbgitpuller.txt
+    - --user
